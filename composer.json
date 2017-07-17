@@ -1,0 +1,21 @@
+{
+    "name": "nalzai35/pertama",
+    "description": "Grab image google",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zainal Abidin",
+            "email": "zainal.jelek@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Nalzai35\\pertama": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
